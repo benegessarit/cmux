@@ -189421,6 +189421,57 @@
         }
       }
     },
+    "mobile.pairing.manual.copied": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copied"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "コピー済み"
+          }
+        }
+      }
+    },
+    "mobile.pairing.manual.copyIP": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy IP"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "IP アドレスをコピー"
+          }
+        }
+      }
+    },
+    "mobile.pairing.manual.copyPort": {
+      "extractionState": "manual",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Copy Port"
+          }
+        },
+        "ja": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "ポートをコピー"
+          }
+        }
+      }
+    },
     "mobile.pairing.manual.title": {
       "extractionState": "manual",
       "localizations": {
